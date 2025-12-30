@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "fa7d37c1-b79d-40a4-b575-5b620433f232",
+    "name": "Night_BTT",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "f7787827-55d3-3441-a9d2-9692ac794916",
+    "name": "bugsasleep",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "1d4b4b6a-e435-315e-a55b-03d41eb07ee4",
+    "name": "Night_BTT",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
